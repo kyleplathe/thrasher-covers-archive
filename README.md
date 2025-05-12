@@ -1,5 +1,14 @@
 # Thrasher Covers Archive Scraper
 
+## 🆕 Latest Cover (May 2025)
+
+![May 2025 Thrasher Cover](https://www.thrashermagazine.com/images/image/Covers_Archive/25_05_Jamie_Foy_Burnett_Frontside_Half_Cab_Nosegrind_CV1TH0525_1080.jpg)
+
+**Year:** 2025  
+**Month:** May
+
+---
+
 This Python script scrapes the [Thrasher Magazine Covers Archive](https://www.thrashermagazine.com/covers/) and generates a JSON file containing the year, month, and image URL for every cover in the archive.
 
 ## Features
