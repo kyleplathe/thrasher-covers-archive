@@ -37,7 +37,5 @@ This project is licensed under the MIT License.
 
 ## Latest Thrasher Cover
 
-![Latest Thrasher Cover](https://raw.githubusercontent.com/kyleplathe/thrasher-covers-archive/main/resized_covers/lock_screen_11202024.jpg)
-
 **Year:** 2024  
 **Month:** November 
