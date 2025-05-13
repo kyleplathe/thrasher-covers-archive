@@ -53,3 +53,7 @@ You can use the shortcut to set a random Thrasher cover as your lock screen: [Th
 10. Tap "Done" to save the automation.
 
 Now, your iPhone will automatically set a random Thrasher cover as your lock screen at the specified time each day!
+
+## Automation for Daily Lock Screen Change
+
+To ensure your lock screen changes daily, set up an automation to run the shortcut at a specific time each day. This way, you'll always have a fresh Thrasher cover waiting for you.
