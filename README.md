@@ -50,6 +50,56 @@ pip install -r requirements.txt
 
 3. The script will output a `covers.json` file in the same directory.
 
+## 📱 Daily Lock Screen Automation
+
+### Option 1: Using Shortcuts App
+
+1. **Set up the automation:**
+   - Open the Shortcuts app
+   - Create a new automation
+   - Choose "Time of Day" trigger
+   - Add "Thrasher Daily Cover" shortcut
+   - Open automation settings
+   - Toggle "Run Immediately" ON
+   - Toggle "Notify When Run" OFF
+
+2. **Using GitHub Raw URLs:**
+   - The resized images are stored in the `resized_covers` directory
+   - Use this format for the raw URL:
+     ```
+     https://raw.githubusercontent.com/kyleplathe/thrasher-covers-archive/main/resized_covers/lock_screen_[filename]
+     ```
+   - Example for May 2025 cover:
+     ```
+     https://raw.githubusercontent.com/kyleplathe/thrasher-covers-archive/main/resized_covers/lock_screen_25_05_Jamie_Foy_Burnett_Frontside_Half_Cab_Nosegrind_CV1TH0525_1080.jpg
+     ```
+
+3. **Run the automation:**
+   - Enable the automation
+   - Test it by running it manually first
+   - It will now run daily at your chosen time
+
+### Option 2: Using the Resize Script
+
+The resize script automatically formats covers to work perfectly on modern iPhones and Android devices:
+
+1. Process a single cover:
+   ```bash
+   python3 resize_cover.py
+   ```
+
+2. Process multiple covers:
+   ```bash
+   python3 resize_cover.py --limit 10  # Process 10 latest covers
+   python3 resize_cover.py --all       # Process all covers
+   ```
+
+The script will:
+- Resize covers to 1080x2340 (9:19.5 aspect ratio)
+- Center and crop to maintain image quality
+- Save high-quality images ready for your lock screen
+- Work across iPhone X and newer models
+
 ## Notes
 
 - The script is designed to be robust to changes in Thrasher's cover URL patterns.
