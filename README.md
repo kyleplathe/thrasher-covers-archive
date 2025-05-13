@@ -41,7 +41,6 @@ This project scrapes all Thrasher magazine covers, resizes them to fit iPhone lo
   ```
   https://raw.githubusercontent.com/kyleplathe/thrasher-covers-archive/main/resized_covers/lock_screen_[Month][Year].jpg
   ```
-- A link to the shortcut will be provided soon.
 
 ## Getting Started
 
