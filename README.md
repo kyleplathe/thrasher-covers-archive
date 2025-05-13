@@ -32,6 +32,15 @@ That's it! Your iPhone will now automatically update with a new Thrasher cover e
 8. Adjust position if needed
 9. Tap Set > Set Lock Screen
 
+## 🔄 Automatic Updates
+
+This repository automatically:
+- Checks for new Thrasher covers daily
+- Resizes them for iPhone lock screens
+- Updates the repository with the latest covers
+
+You don't need to do anything - the covers will always be up to date!
+
 ## For Developers
 
 This repository includes:
