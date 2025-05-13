@@ -1,5 +1,7 @@
 # Thrasher Cover Daily
 
+![Full Size Jamie Foy Cover](https://www.thrashermagazine.com/images/image/Covers_Archive/25_05_Jamie_Foy_Burnett_Frontside_Half_Cab_Nosegrind_CV1TH0525_1080.jpg)
+
 This project scrapes all Thrasher magazine covers, resizes them to fit iPhone lock screens, and uses a JSON file to automate a daily update via a shortcut.
 
 ## Overview
