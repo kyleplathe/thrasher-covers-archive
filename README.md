@@ -34,3 +34,22 @@ Feel free to contribute to this project by submitting issues or pull requests.
 ## License
 
 This project is licensed under the MIT License.
+
+## Shortcut Link
+
+You can use the shortcut to set a random Thrasher cover as your lock screen: [Thrasher Cover Daily Shortcut](https://www.icloud.com/shortcuts/3082f51868c54982bddab31254876771)
+
+## How to Set Up Automation
+
+1. Open the Shortcuts app on your iPhone.
+2. Tap on the "Automation" tab at the bottom.
+3. Tap the "+" button to create a new automation.
+4. Choose "Time of Day" as the trigger.
+5. Set the time you want the shortcut to run daily.
+6. Tap "Add Action" and search for "Run Shortcut."
+7. Select the "Thrasher Cover Daily" shortcut.
+8. Toggle "Run Immediately" ON.
+9. Toggle "Notify When Run" OFF.
+10. Tap "Done" to save the automation.
+
+Now, your iPhone will automatically set a random Thrasher cover as your lock screen at the specified time each day!
