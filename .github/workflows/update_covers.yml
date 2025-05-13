@@ -1,0 +1,40 @@
+name: Update Thrasher Covers
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # every day at midnight UTC
+  workflow_dispatch:
+
+jobs:
+  update-covers:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Scrape covers
+        run: python scrape_thrasher_covers.py
+
+      - name: Resize covers
+        run: python resize_cover.py --all
+
+      - name: Generate resized covers index
+        run: python generate_resized_index.py
+
+      - name: Commit and push if there are changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add resized_covers/ resized_covers_index.json covers.json
+          git commit -m 'Auto-update covers and index' || echo 'No changes to commit'
+          git push 
