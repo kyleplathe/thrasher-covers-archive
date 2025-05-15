@@ -6,52 +6,38 @@
 
 You can use the shortcut to set a random Thrasher cover as your lock screen: [Thrasher Cover Daily Shortcut](https://www.icloud.com/shortcuts/3082f51868c54982bddab31254876771)
 
-## How to Set Up Automation
+## Important Note About Automation
 
-1. Open the Shortcuts app on your iPhone.
-2. Tap on the "Automation" tab at the bottom.
-3. Tap the "+" button to create a new automation.
-4. Choose "Time of Day" as the trigger.
-5. Set the time you want the shortcut to run daily.
-6. Tap "Add Action" and search for "Run Shortcut."
-7. Select the "Thrasher Cover Daily" shortcut.
-8. Toggle "Run Immediately" ON.
-9. Toggle "Notify When Run" OFF.
-10. Tap "Done" to save the automation.
+Due to Apple's security restrictions, shortcuts cannot automatically change your lock screen through the standard automation system. However, there are several ways to use this shortcut:
 
-Now, your iPhone will automatically set a random Thrasher cover as your lock screen at the specified time each day!
+1. **Manual Trigger**: Tap the shortcut in the Shortcuts app or add it to your home screen
+2. **Siri Command**: Say "Hey Siri, run Thrasher Cover Daily"
+3. **Custom Automation**: For true automation, you'll need to build the logic directly in the Shortcuts app's Automation tab
 
-## Automation for Daily Lock Screen Change
+## How to Set Up Custom Automation
 
-To ensure your lock screen changes daily, set up an automation to run the shortcut at a specific time each day. This way, you'll always have a fresh Thrasher cover waiting for you.
+To create a custom automation that can change your lock screen:
 
-This project scrapes all Thrasher magazine covers, resizes them to fit iPhone lock screens, and uses a JSON file to automate a daily update via a shortcut.
+1. Open the Shortcuts app on your iPhone
+2. Tap on the "Automation" tab at the bottom
+3. Tap the "+" button to create a new automation
+4. Choose "Time of Day" as the trigger
+5. Set your preferred time
+6. Add these actions in sequence:
+   - "Get Contents of URL" (use: https://raw.githubusercontent.com/kyleplathe/thrasher-covers-archive/main/resized_covers_index.json)
+   - "Get Dictionary from Input"
+   - "Get Dictionary Value" (key: "covers")
+   - "Get Item from List" (Random Item)
+   - "Get Dictionary Value" (key: "url")
+   - "Get Contents of URL"
+   - "Set Wallpaper"
+7. Toggle "Run Immediately" ON
+8. Toggle "Notify When Run" OFF
+9. Tap "Done" to save the automation
 
-## Overview
+## About
 
-- **Scraping**: A script is used to scrape all Thrasher magazine covers.
-- **Resizing**: The covers are resized to fit iPhone lock screens.
-- **Automation**: A JSON file is used to build a shortcut that automatically updates the lock screen daily.
-
-## Key Information for Developers
-
-- The resized covers are stored in the `resized_covers` directory.
-- The `resized_covers_index.json` file contains metadata for all resized covers, including filenames, URLs, and dates.
-- The raw URL format for accessing the resized covers is:
-  ```
-  https://raw.githubusercontent.com/kyleplathe/thrasher-covers-archive/main/resized_covers/lock_screen_[Month][Year].jpg
-  ```
-
-## Getting Started
-
-1. Clone the repository.
-2. Install the required dependencies.
-3. Run the scripts to scrape and resize the covers.
-4. Use the JSON file to build your shortcut for daily updates.
-
-## Contributing
-
-Feel free to contribute to this project by submitting issues or pull requests.
+This project automatically scrapes and resizes Thrasher magazine covers to fit iPhone lock screens. The covers are updated daily through automated processes, ensuring you always have access to the latest and classic Thrasher covers.
 
 ## License
 
