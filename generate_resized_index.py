@@ -6,44 +6,11 @@ from urllib.parse import quote
 def extract_date_from_filename(filename):
     # Remove the lock_screen_ prefix and .jpg extension
     name = filename.replace('lock_screen_', '').replace('.jpg', '')
-    
-    # Handle new format (e.g., 25_05_Jamie_Foy...)
-    if '_' in name:
-        parts = name.split('_')
-        if len(parts) >= 2 and parts[0].isdigit() and parts[1].isdigit():
-            year = '20' + parts[0]  # Convert 25 to 2025
-            month = parts[1]
-            return f"{year}-{month.zfill(2)}"
-    
-    # Handle format with year in filename (e.g., 2024_12_Thrasher...)
-    if name.startswith('2024_'):
-        parts = name.split('_')
-        if len(parts) >= 2:
-            year = parts[0]
-            month = parts[1]
-            return f"{year}-{month.zfill(2)}"
-    
-    # Handle format with year and month (e.g., January2024)
-    months = {
-        'January': '01', 'February': '02', 'March': '03', 'April': '04',
-        'May': '05', 'June': '06', 'July': '07', 'August': '08',
-        'September': '09', 'October': '10', 'November': '11', 'December': '12'
-    }
-    
-    for month, num in months.items():
-        if name.startswith(month):
-            year = name[len(month):]
-            if year.isdigit():
-                return f"{year}-{num}"
-    
-    # Handle format with year and month (e.g., January_2023_Cover)
-    for month, num in months.items():
-        if name.startswith(month + '_'):
-            parts = name.split('_')
-            if len(parts) >= 2 and parts[1].isdigit():
-                year = parts[1]
-                return f"{year}-{num}"
-    
+    # Handle format like 011981 (MMYYYY)
+    if len(name) == 6 and name[:2].isdigit() and name[2:].isdigit():
+        month = name[:2]
+        year = name[2:]
+        return f"{year}-{month}"
     return None
 
 def generate_index():
