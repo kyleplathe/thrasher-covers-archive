@@ -16,9 +16,9 @@ A project to archive and process Thrasher Magazine cover images.
 Due to Apple's security restrictions, we can't automatically change lock screens through standard automation. But don't worry, here's how to make it work:
 
 📱 **THREE WAYS TO USE IT:**
-1️⃣ Tap the shortcut in the Shortcuts app
-2️⃣ Say "Hey Siri, run Thrasher Cover Daily"
-3️⃣ Set up a custom automation (instructions below)
+1. Tap the shortcut in the Shortcuts app
+2. Say "Hey Siri, run Thrasher Cover Daily"
+3. Set up a custom automation (instructions below)
 
 ⚡️ **CUSTOM AUTOMATION SETUP:**
 1. Open Shortcuts app
