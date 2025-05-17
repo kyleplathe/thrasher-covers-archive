@@ -1,6 +1,6 @@
 # Thrasher Covers Archive
 
-This project archives Thrasher Magazine covers and provides a master JSON file for automation.
+A project to archive and process Thrasher Magazine cover images.
 
 ## Overview
 
@@ -54,9 +54,20 @@ pip install -r requirements.txt
 
 ## Usage
 
-1. Clone the repository.
-2. Use the master archive JSON for automation.
-3. Refer to the 4ply website for additional resources.
+1. Scrape cover images:
+```bash
+python src/scrapers/scrape_thrasher_covers.py
+```
+
+2. Resize images:
+```bash
+python src/processors/resize_cover.py
+```
+
+3. Generate metadata:
+```bash
+python src/processors/generate_metadata_json.py
+```
 
 ## License
 
