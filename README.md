@@ -27,13 +27,13 @@ Due to Apple's security restrictions, we can't automatically change lock screens
 4. Choose "Time of Day"
 5. Set your preferred time
 6. Add these actions in order:
-   • Get Contents of URL: `https://raw.githubusercontent.com/kyleplathe/thrasher-covers-archive/main/data/processed/master_covers_archive.json`
-   • Get Dictionary from Input
-   • Get Dictionary Value (key: "covers")
-   • Get Random Item from List
-   • Get Dictionary Value (key: "url")
-   • Get Contents of URL
-   • Set Wallpaper
+   - Get Contents of URL: `https://raw.githubusercontent.com/kyleplathe/thrasher-covers-archive/main/data/processed/master_covers_archive.json`
+   - Get Dictionary from Input
+   - Get Dictionary Value (key: "covers")
+   - Get Random Item from List
+   - Get Dictionary Value (key: "url")
+   - Get Contents of URL
+   - Set Wallpaper
 
 ## Project Structure
 
