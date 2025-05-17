@@ -4,13 +4,33 @@ A project to archive and process Thrasher Magazine cover images.
 
 ## Overview
 
-- **Master Archive:** The master archive (`data/processed/master_covers_archive.json`) contains all available covers, including 2025 covers with metadata (skater, trick, photographer) extracted from the cover URLs.
-- **4ply Website:** For additional resources and historical data, visit [4ply](https://4plymagazine.com/).
-- **Automation:** Use the master archive JSON for your iOS Shortcut automation. The JSON link is:
-  ```
-  https://raw.githubusercontent.com/kyleplathe/thrasher-covers-archive/main/data/processed/master_covers_archive.json
-  ```
-- **Shortcut Automation Logic:** Screenshots of the shortcut automation logic will be added for better reference.
+- **Latest Cover Image:** The latest Thrasher cover image is displayed at the top of the project page.
+- **iOS Shortcut:** Use the Thrasher Cover Daily shortcut to automatically set a random Thrasher cover as your iPhone lock screen.
+- **Shortcut Link:** [Thrasher Cover Daily Shortcut](https://www.icloud.com/shortcuts/3082f51868c54982bddab31254876771)
+
+## Quick Update on How to Use the Shortcut
+
+Due to Apple's security restrictions, we can't automatically change lock screens through standard automation. But don't worry, here's how to make it work:
+
+📱 **THREE WAYS TO USE IT:**
+1️⃣ Tap the shortcut in the Shortcuts app
+2️⃣ Say "Hey Siri, run Thrasher Cover Daily"
+3️⃣ Set up a custom automation (instructions below)
+
+⚡️ **CUSTOM AUTOMATION SETUP:**
+1. Open Shortcuts app
+2. Go to Automation tab
+3. Create new automation
+4. Choose "Time of Day"
+5. Set your preferred time
+6. Add these actions in order:
+   • Get Contents of URL (use the JSON link)
+   • Get Dictionary from Input
+   • Get Dictionary Value (key: "covers")
+   • Get Random Item from List
+   • Get Dictionary Value (key: "url")
+   • Get Contents of URL
+   • Set Wallpaper
 
 ## Project Structure
 
