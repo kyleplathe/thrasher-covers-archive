@@ -1,0 +1,90 @@
+<html>
+
+<head>
+    <!-- <link rel="stylesheet" href="style/style.css" /> -->
+    <meta name="viewport" 
+      content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+    <title>Thrasher Cover Archive</title>
+    <link rel="stylesheet" href="style/style.css" type="text/css" media="screen" />
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+    <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/lodash.js/0.10.0/lodash.min.js"></script>
+    <script src="js/search.js"></script>
+    <script>
+        function closett(){
+            document.getElementById("tooltip").style.display = 'none';
+            console.log("close")
+
+
+}   </script>
+</head>
+
+<body>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <h1 class=>Thrasher Cover Archive</h1>
+                <h2 class=>Enter a skater/trick/year/obstacle/spot to search covers</h2>
+                
+                <form id="form">
+                    <input class="form-control" id="user-input" placeholder="Type here">
+                    <button id="button" class=âbtn btn-secondaryâ>Search</button>
+                </form>
+                
+                <p id="search-results-count"></p>
+                <br>
+                <table class="table" id="tableId" border="1" 
+                cellpadding="5">
+                    <thead>
+                        <tr>
+                            <!--  <th scope="col">issue#</th> -->
+                            <th id="info" scope="col">Info</th>
+                            <th id="coverth" scope="col">Cover</th>
+                            <!-- <th style="width: 20%" scope="col">skater</th> -->
+                            <!-- <th style="width: 20%" scope="col">trick</th> -->
+                            <!-- <th style="width: 10%" scope="col">cover</th> -->
+                            <!-- <th style="display:none;" scope="col">obstacle</th> -->
+                        </tr>
+                    </thead>
+                    <tbody>
+                    </tbody>
+                    <div id="tooltip" onclick='closett()'>
+                    <span id='close' onclick='closett()'>x</span>
+                    <div id="innertooltip">
+                    
+                    </div>
+                    <div id="tooltipright">
+
+
+                        <div id="tooltiptext">
+                        
+                        <div id="issue">
+                        </div>
+
+                        <div id="skater">
+                        </div>
+                        
+                        <div id="trick">
+                        </div>
+
+                        <div id="obstacle">
+                        </div>
+
+                        <div id="detailer">
+                        </div>
+
+                        <div id="spot">
+                        </div>
+
+                        <div id="staircount">
+                        </div>
+
+                        <div id="soty">
+                        </div>
+
+                    </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>

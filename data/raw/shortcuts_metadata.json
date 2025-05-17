@@ -1,0 +1,3930 @@
+{
+  "lock_screen_052025.jpg": {
+    "text": "May 2025\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_042025.jpg": {
+    "text": "April 2025\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_032025.jpg": {
+    "text": "March 2025\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_022025.jpg": {
+    "text": "February 2025\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_012025.jpg": {
+    "text": "January 2025\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_112024.jpg": {
+    "text": "November 2024\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_102024.jpg": {
+    "text": "October 2024\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_092024.jpg": {
+    "text": "September 2024\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_082024.jpg": {
+    "text": "August 2024\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_072024.jpg": {
+    "text": "July 2024\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_062024.jpg": {
+    "text": "June 2024\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_052024.jpg": {
+    "text": "May 2024\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_042024.jpg": {
+    "text": "April 2024\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_032024.jpg": {
+    "text": "March 2024\nSkater: elissa steamer\nTrick: fs 50-50\nLocation: Los Angeles, CA",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_022024.jpg": {
+    "text": "February 2024\nSkater: jeff carlyle\nTrick: sw 50-50\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_012024.jpg": {
+    "text": "January 2024\nSkater: ducky kovacs\nTrick: drop in\nSpot: Embarcadero",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_122023.jpg": {
+    "text": "December 2023\nSkater: tom knox\nTrick: ollie\nLocation: UK",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_112023.jpg": {
+    "text": "November 2023\nSkater: miles silvas\nTrick: fs crook\nLocation: San Francisco, CA",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_102023.jpg": {
+    "text": "October 2023\nSkater: nora vasconcellos\nTrick: nose pick\nLocation: Spain",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_092023.jpg": {
+    "text": "September 2023\nSkater: john shanahan\nTrick: ollie\nSpot: Muni",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_082023.jpg": {
+    "text": "August 2023\nSkater: jack o'grady\nTrick: ollie\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_072023.jpg": {
+    "text": "July 2023\nSkater: nico hiraga\nTrick: wallride\nLocation: San Francisco, CA",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_062023.jpg": {
+    "text": "June 2023\nSkater: antonio durao\nTrick: sw tre flip to noseblunt\nLocation: Texas",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_052023.jpg": {
+    "text": "May 2023\nSkater: tyshawn jones\nTrick: bs kickflip\nLocation: AU",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_042023.jpg": {
+    "text": "April 2023\nSkater: austyn gillette\nTrick: sw tre flip\nLocation: Los Angeles, CA",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_032023.jpg": {
+    "text": "March 2023\nSkater: emile laurent\nTrick: rock to fakie\nSpot: burnside",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_022023.jpg": {
+    "text": "February 2023\nSkater: nick matthews\nTrick: bs smith\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_012023.jpg": {
+    "text": "January 2023\nSkater: funa nakayama\nTrick: fs crook\nSpot: Hollywood High",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_122022.jpg": {
+    "text": "December 2022\nSkater: tyshawn jones\nTrick: kickflip\nSpot: subway gap",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_112022.jpg": {
+    "text": "November 2022\nSkater: ronnie sandoval\nTrick: bs noseblunt\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_102022.jpg": {
+    "text": "October 2022\nSkater: brian o'dwyer\nTrick: ollie\nSpot: Muni",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_092022.jpg": {
+    "text": "September 2022\nSkater: rob pace\nTrick: fs 50-50 to fs feeble\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_082022.jpg": {
+    "text": "August 2022\nSkater: louie lopez\nTrick: fs 50-50\nLocation: France",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_072022.jpg": {
+    "text": "July 2022\nSkater: austin kanfoush\nTrick: fs slash\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_062022.jpg": {
+    "text": "June 2022\nSkater: giorgi armani\nTrick: fs crook\nSpot: Cardiel Hubba",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_052022.jpg": {
+    "text": "May 2022\nSkater: mark suciu\nTrick: fs tailslide\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_042022.jpg": {
+    "text": "April 2022\nSkater: frankie decker\nTrick: no comply\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_032022.jpg": {
+    "text": "March 2022\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_022022.jpg": {
+    "text": "February 2022\nSkater: fred gall\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_012022.jpg": {
+    "text": "January 2022\nSkater: samarria brevard\nTrick: hippie flip\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_122021.jpg": {
+    "text": "December 2021\nSkater: tristan funkhouser\nTrick: fs ollie\nSpot: China Banks",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_112021.jpg": {
+    "text": "November 2021\nSkater: tyshawn jones\nTrick: sw ollie\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_102021.jpg": {
+    "text": "October 2021\nSkater: breana geering\nTrick: bs crook\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_092021.jpg": {
+    "text": "September 2021\nSkater: evan smith\nTrick: ollie\nSpot: bay bridge",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_082021.jpg": {
+    "text": "August 2021\nSkater: jimmy wilkins\nTrick: fs handplant\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_072021.jpg": {
+    "text": "July 2021\nSkater: grant taylor\nTrick: kickflip\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_062021.jpg": {
+    "text": "June 2021\nSkater: yuto horigome\nTrick: Nollie bs 270 noseslide\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_052021.jpg": {
+    "text": "May 2021\nSkater: mason silva\nTrick: nosepick\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_042021.jpg": {
+    "text": "April 2021\nSkater: jack o'grady\nTrick: bs 5050 to 5050\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_032021.jpg": {
+    "text": "March 2021\nSkater: guy mariano\nTrick: fs feeble\nSpot: ditch",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_022021.jpg": {
+    "text": "February 2021\nSkater: carlos ribiero\nTrick: sw bs noseblunt\nSpot: Clipper",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_012021.jpg": {
+    "text": "January 2021\nSkater: john cardiel\nTrick: bs melon\nSpot: ripon",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_112020.jpg": {
+    "text": "November 2020\nSkater: john shanahan\nTrick: suicide 5050\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_102020.jpg": {
+    "text": "October 2020\nSkater: louie lopez\nTrick: fs feeble\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_042020.jpg": {
+    "text": "April 2020\nSkater: mason silva\nTrick: ollie\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_032020.jpg": {
+    "text": "March 2020\nSkater: jack o'grady\nTrick: bs 5050\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_022020.jpg": {
+    "text": "February 2020\nSkater: tom knox\nTrick: bs lipslide\nLocation: London",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_012020.jpg": {
+    "text": "January 2020\nSkater: figgy\nTrick: fs feeble\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_012019.jpg": {
+    "text": "January 2019\nSkater: tyshawn jones\nTrick: ollie\nLocation: New York City, NY",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_122017.jpg": {
+    "text": "December 2017\nSkater: louie lopez\nTrick: bs wallride\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_112017.jpg": {
+    "text": "November 2017\nSkater: ben raemers\nTrick: invert\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_102017.jpg": {
+    "text": "October 2017\nSkater: shane oneill\nTrick: sw kickflip\nSpot: Heath Kirchart Gap",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_092017.jpg": {
+    "text": "September 2017\nSkater: clive dixon\nTrick: fs lipslide\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_082017.jpg": {
+    "text": "August 2017\nSkater: ducky kovacs\nTrick: fast plant\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_072017.jpg": {
+    "text": "July 2017\nSkater: rick howard\nTrick: ollie\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_062017.jpg": {
+    "text": "June 2017\nSkater: kevin baekkel\nTrick: boardslide\nSpot: ditch",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_052017.jpg": {
+    "text": "May 2017\nSkater: lizzie armanto\nTrick: method\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_042017.jpg": {
+    "text": "April 2017\nSkater: kyle walker\nTrick: fs blunt\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_032017.jpg": {
+    "text": "March 2017\nSkater: jim greco\nTrick: kickflip\nSpot: LA city hall",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_022017.jpg": {
+    "text": "February 2017\nSkater: yonnie cruz\nTrick: sw bs lipslide\nLocation: London",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_122016.jpg": {
+    "text": "December 2016\nSkater: evan smith\nTrick: kickflip to bs wallride\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_112016.jpg": {
+    "text": "November 2016\nSkater: figgy\nTrick: fs nose grind yank\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_102016.jpg": {
+    "text": "October 2016\nSkater: mike anderson\nTrick: nose bonk\nSpot: Seawall",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_092016.jpg": {
+    "text": "September 2016\nSkater: ben raybourne\nTrick: invert\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_082016.jpg": {
+    "text": "August 2016\nSkater: elijah berle\nTrick: gap to fs 5050\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_072016.jpg": {
+    "text": "July 2016\nSkater: daan van der linden\nTrick: bs noseblunt\nSpot: paul revere elementary",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_062016.jpg": {
+    "text": "June 2016\nSkater: dennis busenitz\nTrick: kickflip\nSpot: China Banks",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_052016.jpg": {
+    "text": "May 2016\nSkater: jerry hsu\nTrick: nollie bs 180 to fakie 5-0\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_042016.jpg": {
+    "text": "April 2016\nSkater: anthony van engelen\nTrick: bs 5050\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_032016.jpg": {
+    "text": "March 2016\nSkater: jaws\nTrick: melon\nSpot: Lyon 25",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_022016.jpg": {
+    "text": "February 2016\nSkater: evan smith\nTrick: ollie\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_012016.jpg": {
+    "text": "January 2016\nSkater: shane oneill\nTrick: sw kickflip to bs noseblunt\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_122015.jpg": {
+    "text": "December 2015\nSkater: rowan zorilla\nTrick: fs smith\nSpot: Oceanside",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_112015.jpg": {
+    "text": "November 2015\nSkater: miles silvas\nTrick: sw bs smith\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_102015.jpg": {
+    "text": "October 2015\nSkater: jake johnson\nTrick: no comply\nSpot: besos",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_082015.jpg": {
+    "text": "August 2015\nSkater: sascha daley\nTrick: kickflip\nSpot: ditch",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_072015.jpg": {
+    "text": "July 2015\nSkater: rowan zorilla\nTrick: fs wallride\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_062015.jpg": {
+    "text": "June 2015\nSkater: daniel lutheran\nTrick: suicide 5050\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_052015.jpg": {
+    "text": "May 2015\nSkater: jack fardell\nTrick: fs 5050\nLocation: San Francisco, CA",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_042015.jpg": {
+    "text": "April 2015\nSkater: wes kremer\nTrick: ollie to fakie\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_032015.jpg": {
+    "text": "March 2015\nSkater: anthony van engelen\nTrick: sw suicide 5-0\nSpot: Columbus Park",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_022015.jpg": {
+    "text": "February 2015\nSkater: ben raybourne\nTrick: invert\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_122014.jpg": {
+    "text": "December 2014\nSkater: ben raemers, louie barletta\nTrick: bs fastplant, bs ollie\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_112014.jpg": {
+    "text": "November 2014\nSkater: jeremy leabres\nTrick: fs blunt\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_102014.jpg": {
+    "text": "October 2014\nSkater: miles silvas\nTrick: kickflip to bs tailslide\nSpot: Stanford Hubba",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_092014.jpg": {
+    "text": "September 2014\nSkater: dustin dollin\nTrick: fs 180 to nosegrind\nSpot: Hollywood Bowl",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_082014.jpg": {
+    "text": "August 2014\nSkater: dylan reider\nTrick: bs smith\nLocation: Germany",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_072014.jpg": {
+    "text": "July 2014\nSkater: ryan decenzo\nTrick: fs blunt\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_062014.jpg": {
+    "text": "June 2014\nSkater: taylor kirby\nTrick: ollie\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_052014.jpg": {
+    "text": "May 2014\nSkater: jaws\nTrick: drop in\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_042014.jpg": {
+    "text": "April 2014\nSkater: ishod wair\nTrick: no comply\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_032014.jpg": {
+    "text": "March 2014\nSkater: torey pudwill\nTrick: nollie kickflip\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_022014.jpg": {
+    "text": "February 2014\nSkater: ben raybourne\nTrick: bs fastplant\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_012014.jpg": {
+    "text": "January 2014\nSkater: mark suciu\nTrick: bs noseblunt\nSpot: SF State kinker",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_122013.jpg": {
+    "text": "December 2013\nSkater: dane burman\nTrick: fs 5050 to gap\nSpot: Muni",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_112013.jpg": {
+    "text": "November 2013\nSkater: ishod wair\nTrick: kickflip to bs lipslide\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_102013.jpg": {
+    "text": "October 2013\nSkater: brandon westgate\nTrick: tre flip\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_092013.jpg": {
+    "text": "September 2013\nSkater: collin provost\nTrick: fs 180\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_082013.jpg": {
+    "text": "August 2013\nSkater: chris pfanner\nTrick: kickflip\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_072013.jpg": {
+    "text": "July 2013\nSkater: nyjah huston\nTrick: fs 5-0\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_062013.jpg": {
+    "text": "June 2013\nSkater: clint walker\nTrick: bs smith\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_052013.jpg": {
+    "text": "May 2013\nSkater: david gravette\nTrick: fs 5-0\nSpot: ditch",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_042013.jpg": {
+    "text": "April 2013\nSkater: david gonzales\nTrick: tuckknee\nLocation: Hawaii",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_032013.jpg": {
+    "text": "March 2013\nSkater: ben raybourne\nTrick: bs indie\nSpot: burnside",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_022013.jpg": {
+    "text": "February 2013\nSkater: grant taylor, omar salazar\nTrick: bs 5050, bs 5-0\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_122012.jpg": {
+    "text": "December 2012\nSkater: figgy\nTrick: bs crook\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_112012.jpg": {
+    "text": "November 2012\nSkater: marc johnson\nTrick: casper stall\nSpot: maitland banks",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_102012.jpg": {
+    "text": "October 2012\nSkater: david gonzales\nTrick: fs 5050\nSpot: dompierre spot",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_092012.jpg": {
+    "text": "September 2012\nSkater: dane burman\nTrick: bs 5050\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_082012.jpg": {
+    "text": "August 2012\nSkater: trevor colden\nTrick: sw tre flip\nSpot: house of drops",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_072012.jpg": {
+    "text": "July 2012\nSkater: jim greco\nTrick: nose pick\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_062012.jpg": {
+    "text": "June 2012\nSkater: danny way\nTrick: bs kickflip\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_052012.jpg": {
+    "text": "May 2012\nSkater: corey duffel\nTrick: bs crook\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_042012.jpg": {
+    "text": "April 2012\nSkater: grant taylor\nTrick: stale\nSpot: Pizzey Bowl",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_032012.jpg": {
+    "text": "March 2012\nSkater: jon dickson\nTrick: sw kickflip\nSpot: D7",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_022012.jpg": {
+    "text": "February 2012\nSkater: peter ramondetta\nTrick: sw fs smith\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_012012.jpg": {
+    "text": "January 2012\nSkater: vincent alvarez\nTrick: sw fs 180 to fs nosegrind\nSpot: garfield high",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_122011.jpg": {
+    "text": "December 2011\nSkater: julian davidson\nTrick: kickflip\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_112011.jpg": {
+    "text": "November 2011\nSkater: dakota servold\nTrick: fs boardslide\nSpot: Wedge Hubba",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_102011.jpg": {
+    "text": "October 2011\nSkater: ryan mcwhirter\nTrick: thruster\nSpot: living room",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_092011.jpg": {
+    "text": "September 2011\nSkater: jason dill\nTrick: nosegrind tailgrab\nSpot: east coast pool",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_082011.jpg": {
+    "text": "August 2011\nSkater: torey pudwill\nTrick: bs smith\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_072011.jpg": {
+    "text": "July 2011\nSkater: jaws\nTrick: ollie\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_062011.jpg": {
+    "text": "June 2011\nSkater: figgy\nTrick: sw bs 5050\nLocation: australia",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_052011.jpg": {
+    "text": "May 2011\nSkater: tommy sandoval\nTrick: fs kickflip\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_042011.jpg": {
+    "text": "April 2011\nSkater: leo romero\nTrick: bs boardslide\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_032011.jpg": {
+    "text": "March 2011\nSkater: ben raemers\nTrick: fs invert\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_022011.jpg": {
+    "text": "February 2011\nSkater: grant taylor\nTrick: gap to bs 5050\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_012011.jpg": {
+    "text": "January 2011\nSkater: grant taylor\nTrick: fs ollie\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_122010.jpg": {
+    "text": "December 2010\nSkater: james hardy\nTrick: fs noseblunt\nSpot: patrick henry high",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_112010.jpg": {
+    "text": "November 2010\nSkater: alex olson\nTrick: bs boardslide\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_102010.jpg": {
+    "text": "October 2010\nSkater: andrew reynolds\nTrick: fakie kickflip\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_092010.jpg": {
+    "text": "September 2010\nSkater: leo romero\nTrick: fs smith\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_082010.jpg": {
+    "text": "August 2010\nSkater: eli reed\nTrick: fs hurricane\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_072010.jpg": {
+    "text": "July 2010\nSkater: dave bachinsky\nTrick: bs lipslide\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_062010.jpg": {
+    "text": "June 2010\nSkater: david gonzales\nTrick: bs crook\nSpot: ditch",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_052010.jpg": {
+    "text": "May 2010\nSkater: figgy\nTrick: bs smith\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_042010.jpg": {
+    "text": "April 2010\nSkater: chris cole\nTrick: fs blunt to fakie\nSpot: Rincon",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_032010.jpg": {
+    "text": "March 2010\nSkater: chima ferguson\nTrick: sw bs tailslide\nSpot: Clipper",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_022010.jpg": {
+    "text": "February 2010\nSkater: nick trapasso\nTrick: fs 180\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_012010.jpg": {
+    "text": "January 2010\nSkater: sammy baca\nTrick: crailslide\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_122009.jpg": {
+    "text": "December 2009\nSkater: emmanuel guzman\nTrick: bs smith\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_112009.jpg": {
+    "text": "November 2009\nSkater: geoff rowley\nTrick: impossible\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_102009.jpg": {
+    "text": "October 2009\nSkater: sean malto\nTrick: bs noseblunt\nSpot: Stanford Hubba",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_092009.jpg": {
+    "text": "September 2009\nSkater: james brockman\nTrick: fs blunt\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_082009.jpg": {
+    "text": "August 2009\nSkater: chris cole\nTrick: bs 360\nSpot: Wallenberg",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_072009.jpg": {
+    "text": "July 2009\nSkater: justin brock\nTrick: fs kickflip\nSpot: ditch",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_062009.jpg": {
+    "text": "June 2009\nSkater: don nguyen\nTrick: kickflip\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_052009.jpg": {
+    "text": "May 2009\nSkater: ryan decenzo, scott decenzo\nTrick: fs kickflip, fs boardslide\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_042009.jpg": {
+    "text": "April 2009\nSkater: silas baxter-neal\nTrick: bs smith\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_032009.jpg": {
+    "text": "March 2009\nSkater: omar salazar\nTrick: fs noseblunt\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_022009.jpg": {
+    "text": "February 2009\nSkater: cairo foster\nTrick: bs crooked grind\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_012009.jpg": {
+    "text": "January 2009\nSkater: tony trujillo\nTrick: indie to fakie\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_122008.jpg": {
+    "text": "December 2008\nSkater: christian hosoi\nTrick: tailgrab\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_112008.jpg": {
+    "text": "November 2008\nSkater: david reyes\nTrick: kickflip to bs wallride\nSpot: ditch",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_102008.jpg": {
+    "text": "October 2008\nSkater: billy marks\nTrick: kickflip\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_092008.jpg": {
+    "text": "September 2008\nSkater: mike carroll\nTrick: bs tuckknee\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_082008.jpg": {
+    "text": "August 2008\nSkater: jamie tancowny\nTrick: bs bigspin\nSpot: Cobra Golf (water) Gap",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_072008.jpg": {
+    "text": "July 2008\nSkater: rune glifberg\nTrick: bs crook\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_062008.jpg": {
+    "text": "June 2008\nSkater: chris haslam\nTrick: sw crail\nLocation: australia",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_052008.jpg": {
+    "text": "May 2008\nSkater: marc johnson\nTrick: fs boardslide to fakie\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_042008.jpg": {
+    "text": "April 2008\nSkater: peter watkins\nTrick: nose bonk\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_032008.jpg": {
+    "text": "March 2008\nSkater: terry kennedy\nTrick: fs crook\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_022008.jpg": {
+    "text": "February 2008\nSkater: david gonzales\nTrick: kickflip to fs boardslide\nSpot: Muirlands Middle School",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_012008.jpg": {
+    "text": "January 2008\nSkater: marc johnson\nTrick: nose pick\nSpot: LA River",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_122007.jpg": {
+    "text": "December 2007\nSkater: jake duncombe\nTrick: tre flip\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_112007.jpg": {
+    "text": "November 2007\nSkater: steve nesser\nTrick: fs 5050\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_102007.jpg": {
+    "text": "October 2007\nSkater: corey duffel\nTrick: bs 5050\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_082007.jpg": {
+    "text": "August 2007\nSkater: bob burnquist\nTrick: fs 5050\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_072007.jpg": {
+    "text": "July 2007\nSkater: windsor james\nTrick: fs feeble\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_052007.jpg": {
+    "text": "May 2007\nSkater: andrew reynolds\nTrick: bs kickflip\nSpot: Wallenberg",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_042007.jpg": {
+    "text": "April 2007\nSkater: daewon song\nTrick: fs air\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_032007.jpg": {
+    "text": "March 2007\nSkater: danny way\nTrick: fs tailslide\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_022007.jpg": {
+    "text": "February 2007\nSkater: mikey taylor\nTrick: nollie to fs noseblunt\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_012007.jpg": {
+    "text": "January 2007\nSkater: anthony schultz\nTrick: tuckknee\nSpot: ditch",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_122006.jpg": {
+    "text": "December 2006\nSkater: jamie thomas\nTrick: fs 5050\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_112006.jpg": {
+    "text": "November 2006\nSkater: leo romero\nTrick: fs 5050\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_102006.jpg": {
+    "text": "October 2006\nSkater: tommy sandoval\nTrick: fs nosegrind\nSpot: La Jolla High School",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_092006.jpg": {
+    "text": "September 2006\nSkater: keegan sauder\nTrick: fs tuckknee\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_082006.jpg": {
+    "text": "August 2006\nSkater: tony tave\nTrick: sw heelflip\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_072006.jpg": {
+    "text": "July 2006\nSkater: nick dompierre\nTrick: ollie\nSpot: dompierre spot",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_062006.jpg": {
+    "text": "June 2006\nSkater: joe goemann\nTrick: bs hurricane\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_052006.jpg": {
+    "text": "May 2006\nSkater: jim greco\nTrick: bs 5-0\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_042006.jpg": {
+    "text": "April 2006\nSkater: chris cole\nTrick: kickflip to bs noseslide\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_032006.jpg": {
+    "text": "March 2006\nSkater: dustin dollin\nTrick: bs nosegrind\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_022006.jpg": {
+    "text": "February 2006\nSkater: jon ponts\nTrick: fs melon\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_012006.jpg": {
+    "text": "January 2006\nSkater: mark appleyard\nTrick: bs ollie\nSpot: ditch",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_122005.jpg": {
+    "text": "December 2005\nSkater: chris cole\nTrick: bs wallride\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_112005.jpg": {
+    "text": "November 2005\nSkater: greg lutzka\nTrick: bs kicklip\nSpot: ditch",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_102005.jpg": {
+    "text": "October 2005\nSkater: erik ellington\nTrick: bs lipslide\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_092005.jpg": {
+    "text": "September 2005\nSkater: rick howard\nTrick: bs ollie\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_082005.jpg": {
+    "text": "August 2005\nSkater: anthony van engelen\nTrick: sw fs crook\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_072005.jpg": {
+    "text": "July 2005\nTrick: fs nosegrind\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_062005.jpg": {
+    "text": "June 2005\nSkater: paul rodriguez\nTrick: sw kickflip to sw bs 5050\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_052005.jpg": {
+    "text": "May 2005\nSkater: danny way\nTrick: sw bs crook\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_042005.jpg": {
+    "text": "April 2005\nSkater: geoff rowley\nTrick: bs 360\nSpot: ditch",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_032005.jpg": {
+    "text": "March 2005\nSkater: paul machnau\nTrick: bs tailslide\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_022005.jpg": {
+    "text": "February 2005\nSkater: rune glifberg\nTrick: bs ollie\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_012005.jpg": {
+    "text": "January 2005\nSkater: jon allie\nTrick: kickflip to fs tailslide\nSpot: Clipper",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_122004.jpg": {
+    "text": "December 2004\nSkater: tommy sandoval\nTrick: fs boardslide\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_112004.jpg": {
+    "text": "November 2004\nSkater: chad bartie\nTrick: bs blunt\nSpot: ditch",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_102004.jpg": {
+    "text": "October 2004\nSkater: austin stephens\nTrick: kickflip\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_092004.jpg": {
+    "text": "September 2004\nSkater: geoff rowley\nTrick: fs 5050\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_082004.jpg": {
+    "text": "August 2004\nSkater: jamie thomas\nTrick: bs wallride\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_072004.jpg": {
+    "text": "July 2004\nSkater: ernie torres\nTrick: fs kickflip\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_062004.jpg": {
+    "text": "June 2004\nSkater: corey duffel\nTrick: bs lipslide\nSpot: Oceanside",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_052004.jpg": {
+    "text": "May 2004\nSkater: chris dobstaff\nTrick: bs blunt\nSpot: La Jolla High School",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_042004.jpg": {
+    "text": "April 2004\nSkater: mark appleyard\nTrick: lien air\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_032004.jpg": {
+    "text": "March 2004\nSkater: matt mumford\nTrick: fs crailslide\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_022004.jpg": {
+    "text": "February 2004\nSkater: josh harmony\nTrick: fs nosegrind\nSpot: Rincon",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_012004.jpg": {
+    "text": "January 2004\nSkater: tony trujillo\nTrick: fs roll in\nSpot: Seawall",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_122003.jpg": {
+    "text": "December 2003\nSkater: bastien salabanzi\nTrick: fakie kickflip\nSpot: West Hollywood Park 12",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_112003.jpg": {
+    "text": "November 2003\nSkater: rick mccrank & lance mountain\nTrick: fs air over fs 5-0\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_102003.jpg": {
+    "text": "October 2003\nSkater: darren navarrette\nTrick: lien air\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_092003.jpg": {
+    "text": "September 2003\nSkater: mark gonzales\nTrick: bs 5-0\nLocation: San Francisco, CA",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_082003.jpg": {
+    "text": "August 2003\nSkater: tom penny\nTrick: kickflip to fakie\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_072003.jpg": {
+    "text": "July 2003\nSkater: john rattray\nTrick: invert\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_062003.jpg": {
+    "text": "June 2003\nSkater: heath kirchart\nTrick: bs lipslide\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_052003.jpg": {
+    "text": "May 2003\nSkater: tony trujillo\nTrick: stale\nSpot: ripon",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_042003.jpg": {
+    "text": "April 2003\nSkater: bryan herman\nTrick: kickflip\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_032003.jpg": {
+    "text": "March 2003\nSkater: mark appleyard\nTrick: fs nosegrind\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_022003.jpg": {
+    "text": "February 2003\nSkater: ryan smith\nTrick: fs noseblunt\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_012003.jpg": {
+    "text": "January 2003\nSkater: billy marks\nTrick: kickflip to fs lipslide\nSpot: Hollywood High",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_122002.jpg": {
+    "text": "December 2002\nSkater: andrew reynolds\nTrick: fs kickflip\nSpot: paul revere elementary",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_112002.jpg": {
+    "text": "November 2002\nSkater: dustin dollin\nTrick: fakie kickflip\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_102002.jpg": {
+    "text": "October 2002\nSkater: jeremy smythe\nTrick: fs crook\nSpot: 3rd & Army",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_092002.jpg": {
+    "text": "September 2002\nSkater: alan petersen\nTrick: method\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_082002.jpg": {
+    "text": "August 2002\nSkater: tom penny\nTrick: sw 270 kickflip\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_072002.jpg": {
+    "text": "July 2002\nSkater: jamie thomas\nTrick: bs crook\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_062002.jpg": {
+    "text": "June 2002\nSkater: darrell stanton\nTrick: bs noseblunt\nSpot: Clipper",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_052002.jpg": {
+    "text": "May 2002\nSkater: jason adams\nTrick: ollie\nSpot: LA River",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_042002.jpg": {
+    "text": "April 2002\nSkater: arto saari\nTrick: fakie fs boardslide\nSpot: Point Loma High School",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_032002.jpg": {
+    "text": "March 2002\nSkater: bastien salabanzi\nTrick: kickflip to fakie\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_022002.jpg": {
+    "text": "February 2002\nSkater: ryan johnson\nTrick: acid drop\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_012002.jpg": {
+    "text": "January 2002\nSkater: jon allie\nTrick: kickflip to bs lipslide\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_122001.jpg": {
+    "text": "December 2001\nSkater: steve bailey\nTrick: fs ollie\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_102001.jpg": {
+    "text": "October 2001\nSkater: matt field\nTrick: fs nosegrind\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_092001.jpg": {
+    "text": "September 2001\nSkater: geoff rowley\nTrick: bs 5050\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_082001.jpg": {
+    "text": "August 2001\nSkater: wes lott\nTrick: bs lipslide\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_072001.jpg": {
+    "text": "July 2001\nSkater: stevie williams\nTrick: fs noseslide\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_062001.jpg": {
+    "text": "June 2001\nSkater: alan petersen\nTrick: fs ollie\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_052001.jpg": {
+    "text": "May 2001\nSkater: elias bingham\nTrick: ollie\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_042001.jpg": {
+    "text": "April 2001\nSkater: geoff rowley\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_032001.jpg": {
+    "text": "March 2001\nSkater: dan drehobl\nTrick: fs air\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_022001.jpg": {
+    "text": "February 2001\nSkater: steve olsen\nTrick: sw bs crook\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_012001.jpg": {
+    "text": "January 2001\nSkater: collectors edition\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_122000.jpg": {
+    "text": "December 2000\nSkater: eric koston\nTrick: bs lipslide\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_112000.jpg": {
+    "text": "November 2000\nSkater: jason dill\nTrick: bs blunt\nSpot: Belmon 9 Stair",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_102000.jpg": {
+    "text": "October 2000\nSkater: cairo foster\nTrick: fs noseslide\nSpot: oakland courthouse",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_092000.jpg": {
+    "text": "September 2000\nSkater: jim greco\nTrick: sw fs kickflip\nSpot: lincoln high",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_082000.jpg": {
+    "text": "August 2000\nSkater: toan nyugen\nTrick: kickflip to bs tailslide\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_072000.jpg": {
+    "text": "July 2000\nSkater: arto saari\nTrick: bs crook\nSpot: Franklin High School",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_062000.jpg": {
+    "text": "June 2000\nSkater: dennis busenitz\nTrick: ollie\nSpot: alameda skatepark",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_052000.jpg": {
+    "text": "May 2000\nSkater: reese forbes\nTrick: fakie ollie\nSpot: 3rd & Army",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_042000.jpg": {
+    "text": "April 2000\nSkater: brian anderson\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_032000.jpg": {
+    "text": "March 2000\nSkater: paul machnau\nTrick: fs boardslide\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_022000.jpg": {
+    "text": "February 2000\nSkater: erik ellington\nTrick: bs kickflip\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_012000.jpg": {
+    "text": "January 2000\nSkater: steve caballero\nTrick: fs air\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_121999.jpg": {
+    "text": "December 1999\nSkater: mark scott\nTrick: fs air\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_111999.jpg": {
+    "text": "November 1999\nSkater: richard paez\nTrick: alley oop nollie\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_101999.jpg": {
+    "text": "October 1999\nSkater: kerry getz\nTrick: kickflip to lien air\nSpot: demo",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_091999.jpg": {
+    "text": "September 1999\nSkater: royce nelson\nTrick: transfer\nSpot: alameda skatepark",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_081999.jpg": {
+    "text": "August 1999\nSkater: jamie thomas\nTrick: sw fs lipslide\nSpot: Arco",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_071999.jpg": {
+    "text": "July 1999\nSkater: marcus mcbride\nTrick: ollie\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_061999.jpg": {
+    "text": "June 1999\nSkater: jeff lenoce\nTrick: fs 5-0\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_051999.jpg": {
+    "text": "May 1999\nSkater: jerry hsu\nTrick: sw heelflip\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_041999.jpg": {
+    "text": "April 1999\nSkater: andrew reynolds\nTrick: fs blunt\nLocation: Florida",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_031999.jpg": {
+    "text": "March 1999\nSkater: rick howard\nTrick: bs crook\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_021999.jpg": {
+    "text": "February 1999\nSkater: geoff rowley\nTrick: fs boardslide\nSpot: Hollywood High",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_011999.jpg": {
+    "text": "January 1999\nSkater: richard mulder\nTrick: sw ollie\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_121998.jpg": {
+    "text": "December 1998\nSkater: cairo foster\nTrick: bs crook\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_111998.jpg": {
+    "text": "November 1998\nSkater: john cardiel\nTrick: fs air\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_101998.jpg": {
+    "text": "October 1998\nSkater: wade speyer & daewon song\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_091998.jpg": {
+    "text": "September 1998\nSkater: mark johnson\nTrick: sw fs heelflip\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_081998.jpg": {
+    "text": "August 1998\nSkater: bam margera\nTrick: bs grind\nSpot: FDR",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_071998.jpg": {
+    "text": "July 1998\nSkater: ethan fowler\nTrick: tre flip\nSpot: petaluma skatepark",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_061998.jpg": {
+    "text": "June 1998\nSkater: mike carroll\nTrick: fs crook\nLocation: San Francisco, CA",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_051998.jpg": {
+    "text": "May 1998\nSkater: willy santos\nTrick: fs feeble\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_041998.jpg": {
+    "text": "April 1998\nSkater: bob burnquist\nTrick: ollie\nLocation: San Francisco, CA",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_031998.jpg": {
+    "text": "March 1998\nSkater: peter hewitt\nTrick: fs invert\nLocation: Quito, Equador",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_021998.jpg": {
+    "text": "February 1998\nSkater: pat duffy\nTrick: kickflip\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_011998.jpg": {
+    "text": "January 1998\nTrick: bs crook\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_121997.jpg": {
+    "text": "December 1997\nSkater: brian anderson\nTrick: fs tailslide\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_111997.jpg": {
+    "text": "November 1997\nSkater: jeremy wray\nTrick: ollie\nSpot: water tower gap",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_101997.jpg": {
+    "text": "October 1997\nSkater: keith hufnagel\nTrick: ollie\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_091997.jpg": {
+    "text": "September 1997\nSkater: danny way\nTrick: bs noseblunt\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_081997.jpg": {
+    "text": "August 1997\nSkater: bobby puleo\nTrick: bs nosegrind\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_071997.jpg": {
+    "text": "July 1997\nSkater: wade speyer\nTrick: fs indie\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_061997.jpg": {
+    "text": "June 1997\nSkater: chico brenes\nTrick: bs tailslide\nSpot: Bay Blocks",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_051997.jpg": {
+    "text": "May 1997\nSkater: quim cardona\nTrick: fs ollie\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_041997.jpg": {
+    "text": "April 1997\nSkater: mark gonzales\nTrick: pole jam to fakie\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_031997.jpg": {
+    "text": "March 1997\nSkater: eric koston\nTrick: fs noseblunt\nSpot: Venice Beach",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_021997.jpg": {
+    "text": "February 1997\nSkater: scott johnston\nTrick: bs crook\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_011997.jpg": {
+    "text": "January 1997\nSkater: danny gonzales\nTrick: melon\nLocation: San Francisco, CA",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_121996.jpg": {
+    "text": "December 1996\nSkater: sean sheffey\nTrick: fs 5050\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_111996.jpg": {
+    "text": "November 1996\nSkater: mike york\nTrick: fs blunt to fakie\nLocation: Berkeley",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_101996.jpg": {
+    "text": "October 1996\nSkater: mark hubbard\nTrick: bs ollie\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_091996.jpg": {
+    "text": "September 1996\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_081996.jpg": {
+    "text": "August 1996\nSkater: eric dressen\nTrick: fs thruster\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_071996.jpg": {
+    "text": "July 1996\nSkater: phil shao\nTrick: fs 5-0\nSpot: Fort Miley",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_061996.jpg": {
+    "text": "June 1996\nSkater: karma tsocheff\nTrick: bs shifty\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_051996.jpg": {
+    "text": "May 1996\nSkater: coco santiago\nTrick: fs thruster\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_041996.jpg": {
+    "text": "April 1996\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_031996.jpg": {
+    "text": "March 1996\nSkater: ron whaley\nTrick: fs indie\nLocation: San Francisco, CA",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_021996.jpg": {
+    "text": "February 1996\nSkater: justin strubing\nTrick: fs salad\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_011996.jpg": {
+    "text": "January 1996\nSkater: salman agah, rodney mullen, tommy guerrero, ray barbee, tony hawk, duane peters, mike carroll\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_121995.jpg": {
+    "text": "December 1995\nSkater: mike bouchard\nTrick: fs nosegrind\nSpot: LOVE Park",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_111995.jpg": {
+    "text": "November 1995\nSkater: quim cardona\nTrick: fs indie\nLocation: New York City, NY",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_101995.jpg": {
+    "text": "October 1995\nSkater: chad muska\nTrick: fs 5-0\nSpot: Brooklyn Banks",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_091995.jpg": {
+    "text": "September 1995\nSkater: moses itkonen\nTrick: sw fs tailslide\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_081995.jpg": {
+    "text": "August 1995\nSkater: phil shao\nTrick: fs smith\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_071995.jpg": {
+    "text": "July 1995\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_061995.jpg": {
+    "text": "June 1995\nSkater: ethan fowler\nTrick: sw bs wallride\nSpot: Ft. Mason",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_051995.jpg": {
+    "text": "May 1995\nSkater: max schaaf\nTrick: half cab\nSpot: jake's ramp",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_041995.jpg": {
+    "text": "April 1995\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_031995.jpg": {
+    "text": "March 1995\nSkater: mike carroll\nTrick: fs tailslide\nSpot: Bay Blocks",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_021995.jpg": {
+    "text": "February 1995\nSkater: fred gall\nTrick: sw fs 5-0\nSpot: Hubba Hideout",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_011995.jpg": {
+    "text": "January 1995\nSkater: mike conway\nTrick: bs noseslide\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_121994.jpg": {
+    "text": "December 1994\nSkater: wade speyer\nTrick: method\nSpot: Marseilles Skatepark",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_111994.jpg": {
+    "text": "November 1994\nSkater: alan peterson\nTrick: ollie\nSpot: Santa Monica Triple Set",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_101994.jpg": {
+    "text": "October 1994\nSkater: bob burnquist\nTrick: fs air\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_091994.jpg": {
+    "text": "September 1994\nSkater: andy roy\nTrick: lien air\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_081994.jpg": {
+    "text": "August 1994\nSkater: matt pailes\nTrick: ollie\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_071994.jpg": {
+    "text": "July 1994\nSkater: jaya bonderov\nTrick: fs nosegrind\nLocation: San Francisco, CA",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_061994.jpg": {
+    "text": "June 1994\nSkater: mike frazier\nTrick: kickflip to mute\nSpot: andy's ramp",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_051994.jpg": {
+    "text": "May 1994\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_041994.jpg": {
+    "text": "April 1994\nSkater: jaime reyes\nTrick: tre flip to fakie\nLocation: Hawaii",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_031994.jpg": {
+    "text": "March 1994\nSkater: jason adams\nTrick: kickflip to fakie\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_021994.jpg": {
+    "text": "February 1994\nSkater: salman agah\nTrick: soty\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_011994.jpg": {
+    "text": "January 1994\nSkater: carl shipman\nTrick: fs blunt\nSpot: Hubba Hideout",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_121993.jpg": {
+    "text": "December 1993\nSkater: eric koston\nTrick: fs kickflip\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_111993.jpg": {
+    "text": "November 1993\nSkater: rick howard\nTrick: sw tre flip\nSpot: Beryl Banks",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_101993.jpg": {
+    "text": "October 1993\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_091993.jpg": {
+    "text": "September 1993\nSkater: karma tsocheff\nTrick: fs 180 nosegrind to regular\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_081993.jpg": {
+    "text": "August 1993\nSkater: joe sierro, jason adams, justin ortiz\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_071993.jpg": {
+    "text": "July 1993\nSkater: henry sanchez\nTrick: heelflip to fs noseslide\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_061993.jpg": {
+    "text": "June 1993\nSkater: mark gonzales\nTrick: fs ollie\nSpot: max's ramp",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_051993.jpg": {
+    "text": "May 1993\nSkater: julien stranger\nTrick: bs lipslide\nLocation: San Francisco, CA",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_041993.jpg": {
+    "text": "April 1993\nSkater: john cardiel\nTrick: shifty ollie\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_021993.jpg": {
+    "text": "February 1993\nSkater: jeff pang\nTrick: shifty ollie\nSpot: Brooklyn Banks",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_011993.jpg": {
+    "text": "January 1993\nSkater: tim brauch\nTrick: bs crook\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_121992.jpg": {
+    "text": "December 1992\nSkater: mike carroll\nTrick: bs crook\nSpot: Hubba Hideout",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_111992.jpg": {
+    "text": "November 1992\nSkater: alphonso rawls\nTrick: bs smith\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_101992.jpg": {
+    "text": "October 1992\nSkater: daniel powell ESQ\nTrick: fs noseblunt\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_091992.jpg": {
+    "text": "September 1992\nSkater: jovontae turner\nTrick: bs heelflip\nSpot: Embarcadero",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_081992.jpg": {
+    "text": "August 1992\nSkater: sean sheffey\nTrick: heelflip shuv it\nSpot: demo",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_071992.jpg": {
+    "text": "July 1992\nSkater: remy stratton\nTrick: tailgrab to fakie\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_061992.jpg": {
+    "text": "June 1992\nSkater: pat duffy\nTrick: fs 180 nosegrind\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_051992.jpg": {
+    "text": "May 1992\nSkater: tom knox\nTrick: ollie\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_041992.jpg": {
+    "text": "April 1992\nSkater: ronnie bertino\nTrick: fs noseblunt\nSpot: golden gate park fountain",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_031992.jpg": {
+    "text": "March 1992\nSkater: chet thomas\nTrick: shifty ollie\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_021992.jpg": {
+    "text": "February 1992\nSkater: eric britton\nTrick: fs nosegrind\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_011992.jpg": {
+    "text": "January 1992\nSkater: wade speyer\nTrick: ollie tuck knee\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_121991.jpg": {
+    "text": "December 1991\nSkater: danny way\nTrick: mute to fakie\nSpot: back to the city",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_111991.jpg": {
+    "text": "November 1991\nSkater: eric dressen\nTrick: nose bonk tail grab\nSpot: LA Courthouse",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_101991.jpg": {
+    "text": "October 1991\nSkater: ray barbee\nTrick: fs kickflip\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_091991.jpg": {
+    "text": "September 1991\nSkater: brandon chapman\nTrick: bs disaster\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_081991.jpg": {
+    "text": "August 1991\nSkater: Eddie Reategui\nTrick: fs ollie\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_071991.jpg": {
+    "text": "July 1991\nSkater: steve caballero\nTrick: fs boardslide\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_061991.jpg": {
+    "text": "June 1991\nSkater: jonah guzzi\nTrick: ollie one foot\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_051991.jpg": {
+    "text": "May 1991\nSkater: pep\nTrick: boardslide\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_041991.jpg": {
+    "text": "April 1991\nSkater: todd shinto\nTrick: hoverboard\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_031991.jpg": {
+    "text": "March 1991\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_021991.jpg": {
+    "text": "February 1991\nSkater: ed templeton\nTrick: nose bonk\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_011991.jpg": {
+    "text": "January 1991\nSkater: tony hawk\nTrick: melon to fakie\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_121990.jpg": {
+    "text": "December 1990\nSkater: omar hassan\nTrick: lien air\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_111990.jpg": {
+    "text": "November 1990\nSkater: henry sanchez\nTrick: bs nosegrind\nSpot: Embarcadero",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_101990.jpg": {
+    "text": "October 1990\nSkater: brennand schoeffel\nTrick: ollie\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_091990.jpg": {
+    "text": "September 1990\nSkater: aaron deeter\nTrick: fs air\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_081990.jpg": {
+    "text": "August 1990\nSkater: bob pereyra\nTrick: luge\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_071990.jpg": {
+    "text": "July 1990\nSkater: tim galvin\nTrick: bs carve\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_061990.jpg": {
+    "text": "June 1990\nSkater: butch sterbins\nTrick: bs boardslide\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_051990.jpg": {
+    "text": "May 1990\nSkater: frankie hill\nTrick: bs boardslide\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_041990.jpg": {
+    "text": "April 1990\nSkater: karma tsocheff\nTrick: ollie\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_031990.jpg": {
+    "text": "March 1990\nSkater: mark hollander\nTrick: bs carve\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_021990.jpg": {
+    "text": "February 1990\nSkater: george nagai\nTrick: indie grab\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_011990.jpg": {
+    "text": "January 1990\nSkater: steve caballero\nTrick: indie to fakie\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_121989.jpg": {
+    "text": "December 1989\nSkater: jeff kendell\nTrick: fs smith\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_111989.jpg": {
+    "text": "November 1989\nSkater: scott oster\nTrick: bertleman\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_101989.jpg": {
+    "text": "October 1989\nSkater: jeremy henders\nTrick: bs wallride\nSpot: brooklyn banks",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_091989.jpg": {
+    "text": "September 1989\nSkater: danny sargent\nTrick: nosepick\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_081989.jpg": {
+    "text": "August 1989\nSkater: cara beth burnside\nTrick: fs indie\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_071989.jpg": {
+    "text": "July 1989\nSkater: ron allen\nTrick: fs boardslide\nSpot: oak tech",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_061989.jpg": {
+    "text": "June 1989\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_051989.jpg": {
+    "text": "May 1989\nSkater: Chris Miller\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_041989.jpg": {
+    "text": "April 1989\nSkater: brian bannon\nTrick: fakie thrust\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_031989.jpg": {
+    "text": "March 1989\nSkater: robby olhisher\nTrick: wallride\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_021989.jpg": {
+    "text": "February 1989\nSkater: vladimir morozoz\nTrick: tic-tac\nLocation: russia",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_011989.jpg": {
+    "text": "January 1989\nSkater: jay adams\nTrick: fs grind\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_121988.jpg": {
+    "text": "December 1988\nSkater: lance mountain\nTrick: sad plant\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_111988.jpg": {
+    "text": "November 1988\nSkater: bod boyle\nTrick: bs lipslide\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_101988.jpg": {
+    "text": "October 1988\nSkater: david hackett\nTrick: fs grind\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_091988.jpg": {
+    "text": "September 1988\nSkater: sam esmoer\nTrick: fs grind fs grab\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_081988.jpg": {
+    "text": "August 1988\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_071988.jpg": {
+    "text": "July 1988\nSkater: danny sargent, luke ogden, john dettman \n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_061988.jpg": {
+    "text": "June 1988\nSkater: christian hosoi\nTrick: fakie ollie\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_051988.jpg": {
+    "text": "May 1988\nSkater: rob roskopp\nTrick: bertleman\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_041988.jpg": {
+    "text": "April 1988\nSkater: steve alba\nTrick: fs tail tap\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_031988.jpg": {
+    "text": "March 1988\nSkater: scott oster\nTrick: g-turn\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_021988.jpg": {
+    "text": "February 1988\nSkater: tony vitello\nLocation: San Francisco, CA",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_011988.jpg": {
+    "text": "January 1988\nSkater: eric dressen\nTrick: bs tail tap\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_121987.jpg": {
+    "text": "December 1987\nSkater: eddie reategui\nLocation: Savannah",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_111987.jpg": {
+    "text": "November 1987\nSkater: steve caballero\nTrick: fs boardslide\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_101987.jpg": {
+    "text": "October 1987\nSkater: christian hosoi\nTrick: method air\nLocation: Hawaii",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_091987.jpg": {
+    "text": "September 1987\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_081987.jpg": {
+    "text": "August 1987\nSkater: tony hawk\nTrick: fs ollie\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_071987.jpg": {
+    "text": "July 1987\nSkater: mark rogowski\nTrick: slashback\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_061987.jpg": {
+    "text": "June 1987\nSkater: steve alba\nTrick: carve\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_051987.jpg": {
+    "text": "May 1987\nSkater: mike muir\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_041987.jpg": {
+    "text": "April 1987\nSkater: brian brannon\nTrick: bs kickturn\nSpot: jaws spot",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_031987.jpg": {
+    "text": "March 1987\nSkater: jeff phillips\nTrick: fs ollie\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_021987.jpg": {
+    "text": "February 1987\nSkater: gang green\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_011987.jpg": {
+    "text": "January 1987\nSkater: jim thiebaud\nTrick: fs grind\nLocation: oakland",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_121986.jpg": {
+    "text": "December 1986\nSkater: chris miller\nTrick: fs air\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_091986.jpg": {
+    "text": "September 1986\nSkater: mark gonzales\nTrick: bean plant\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_081986.jpg": {
+    "text": "August 1986\nSkater: mike valley\nTrick: sad plant\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_071986.jpg": {
+    "text": "July 1986\nSkater: jesse martinez\nTrick: judo air\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_061986.jpg": {
+    "text": "June 1986\nSkater: glenn danzig\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_051986.jpg": {
+    "text": "May 1986\nSkater: lester kasai\nTrick: fs ollie\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_041986.jpg": {
+    "text": "April 1986\nSkater: tommy guerrero\nTrick: lien air\nSpot: Wallows",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_031986.jpg": {
+    "text": "March 1986\nSkater: natas kaupus\nTrick: bertleman\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_021986.jpg": {
+    "text": "February 1986\nSkater: allen losi\nTrick: invert\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_011986.jpg": {
+    "text": "January 1986\nSkater: claus grabke\nTrick: invert\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_121985.jpg": {
+    "text": "December 1985\nSkater: dave hackett\nTrick: hang ten\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_111985.jpg": {
+    "text": "November 1985\nSkater: christian hosoi\nTrick: melon\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_101985.jpg": {
+    "text": "October 1985\nSkater: bruno peeters\nTrick: fakie ollie\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_091985.jpg": {
+    "text": "September 1985\nSkater: lance mountain\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_081985.jpg": {
+    "text": "August 1985\nSkater: lester kasai\nTrick: bs air\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_071985.jpg": {
+    "text": "July 1985\nSkater: chris miller\nTrick: fs air\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_061985.jpg": {
+    "text": "June 1985\nSkater: steve caballero\nTrick: fs invert\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_051985.jpg": {
+    "text": "May 1985\nSkater: john gibson\nTrick: fs thrust\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_041985.jpg": {
+    "text": "April 1985\nSkater: christian hosoi\nTrick: andrecht\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_031985.jpg": {
+    "text": "March 1985\nSkater: billy ruff & neil blender\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_021985.jpg": {
+    "text": "February 1985\nSkater: neil blender\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_011985.jpg": {
+    "text": "January 1985\nSkater: jeff phillips\nTrick: fs boneless\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_121984.jpg": {
+    "text": "December 1984\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_111984.jpg": {
+    "text": "November 1984\nSkater: mark gonzales\nTrick: beanplant\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_101984.jpg": {
+    "text": "October 1984\nSkater: neil blender\nTrick: eggplant\nSpot: del mar",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_091984.jpg": {
+    "text": "September 1984\nSkater: natas kaupus\nTrick: fs wallride\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_081984.jpg": {
+    "text": "August 1984\nSkater: christian hosoi\nTrick: bs air\nSpot: upland",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_071984.jpg": {
+    "text": "July 1984\nSkater: tommy guerrero\nTrick: fastplant\nSpot: fort miley",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_061984.jpg": {
+    "text": "June 1984\nSkater: mark rogowski\nTrick: fs grind\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_051984.jpg": {
+    "text": "May 1984\nSkater: chuck treece\nTrick: layback tailslide\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_041984.jpg": {
+    "text": "April 1984\nSkater: bryce kanights\nTrick: fs air\nLocation: berkeley",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_031984.jpg": {
+    "text": "March 1984\nSkater: mondo\nTrick: fs grind\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_021984.jpg": {
+    "text": "February 1984\nSkater: monty nolder\nTrick: gay twist\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_011984.jpg": {
+    "text": "January 1984\nSkater: rodney mullen\nTrick: one foot pogo\nSpot: kentor canyon school",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_121983.jpg": {
+    "text": "December 1983\nSkater: big steve\nTrick: fs grind\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_111983.jpg": {
+    "text": "November 1983\nSkater: rob roskopp\nTrick: sweeper\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_101983.jpg": {
+    "text": "October 1983\nSkater: puker, pat clarke\nTrick: fs grind, bs air\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_091983.jpg": {
+    "text": "September 1983\nSkater: mike mcgill, craig johnson, john gibson, jay cabler\nTrick: bs air, fs air, fs layback\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_081983.jpg": {
+    "text": "August 1983\nSkater: steve caballero\nTrick: fs channel plant\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_071983.jpg": {
+    "text": "July 1983\nSkater: jay alabamy\nTrick: fs ollie\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_061983.jpg": {
+    "text": "June 1983\nSkater: andy kessler\nTrick: one foot nose manny\nLocation: New York City, NY",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_051983.jpg": {
+    "text": "May 1983\nSkater: gary davis\nTrick: fs boneless\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_041983.jpg": {
+    "text": "April 1983\nSkater: micke alba\nTrick: handplant\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_031983.jpg": {
+    "text": "March 1983\nSkater: billy ruff\nTrick: bs air\nSpot: whittier",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_021983.jpg": {
+    "text": "February 1983\nSkater: bob denike\nTrick: fs lip\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_011983.jpg": {
+    "text": "January 1983\nSkater: lance mountain\nTrick: bs air\nSpot: whittier",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_121982.jpg": {
+    "text": "December 1982\nSkater: tom groholski\nTrick: bs air\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_111982.jpg": {
+    "text": "November 1982\nSkater: john hutson\nTrick: downhill\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_101982.jpg": {
+    "text": "October 1982\nSkater: rodney mullen\nTrick: ollie\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_091982.jpg": {
+    "text": "September 1982\nSkater: per wilinder\nTrick: pogo\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_081982.jpg": {
+    "text": "August 1982\nSkater: jay adams\nTrick: bertleman\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_071982.jpg": {
+    "text": "July 1982\nSkater: micke alba\nTrick: bs air\nSpot: upland",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_041982.jpg": {
+    "text": "April 1982\nSkater: street scott\nTrick: driveway flyoff\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_031982.jpg": {
+    "text": "March 1982\nSkater: duane peters\nTrick: slide drop in\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_021982.jpg": {
+    "text": "February 1982\nSkater: steve caballero\nTrick: fakie ollie\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_011982.jpg": {
+    "text": "January 1982\nSkater: mike smith\nTrick: bs air\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_121981.jpg": {
+    "text": "December 1981\nSkater: steve rocco\nTrick: nose manny\nSpot: living room",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_111981.jpg": {
+    "text": "November 1981\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_101981.jpg": {
+    "text": "October 1981\nSkater: tony hawk\nTrick: lien to tail\nSpot: del mar",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_091981.jpg": {
+    "text": "September 1981\nSkater: steve caballero\nTrick: lien air\nSpot: kona",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_081981.jpg": {
+    "text": "August 1981\nSkater: roger hickey & john hutson\nTrick: downhill\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_071981.jpg": {
+    "text": "July 1981\nSkater: mike pust\nTrick: handplant\nLocation: canada",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_061981.jpg": {
+    "text": "June 1981\nSkater: mike smith\nTrick: fs smith\nSpot: colton",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_051981.jpg": {
+    "text": "May 1981\nSkater: steve caballero, duane peters\nTrick: lien air, sweeper\nSpot: whittier",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_041981.jpg": {
+    "text": "April 1981\nSkater: allen losi\nTrick: fakie footplant ollie\nSpot: colton",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_031981.jpg": {
+    "text": "March 1981\nSkater: chris miller\nTrick: fs air\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_021981.jpg": {
+    "text": "February 1981\nSkater: chris stople\nTrick: fs slash\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  },
+  "lock_screen_011981.jpg": {
+    "text": "January 1981\n",
+    "position": "bottom",
+    "font_size": 24,
+    "font_color": "white",
+    "background_color": "black",
+    "background_opacity": 0.7
+  }
+}
