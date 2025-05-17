@@ -2,9 +2,12 @@
 
 A project to archive and process Thrasher Magazine cover images.
 
+## Latest Cover Image
+
+![Latest Thrasher Cover](images/resized/resized_covers/lock_screen_011981.jpg)
+
 ## Overview
 
-- **Latest Cover Image:** The latest Thrasher cover image is displayed at the top of the project page.
 - **iOS Shortcut:** Use the Thrasher Cover Daily shortcut to automatically set a random Thrasher cover as your iPhone lock screen.
 - **Shortcut Link:** [Thrasher Cover Daily Shortcut](https://www.icloud.com/shortcuts/3082f51868c54982bddab31254876771)
 
