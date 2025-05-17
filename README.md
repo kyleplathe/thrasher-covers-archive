@@ -1,44 +1,63 @@
-# Thrasher Cover Daily
+# Thrasher Covers Archive
 
-![Full Size Jamie Foy Cover](https://www.thrashermagazine.com/images/image/Covers_Archive/25_05_Jamie_Foy_Burnett_Frontside_Half_Cab_Nosegrind_CV1TH0525_1080.jpg)
+This project archives Thrasher Magazine covers and provides a master JSON file for automation.
 
-## Shortcut Link
+## Overview
 
-You can use the shortcut to set a random Thrasher cover as your lock screen: [Thrasher Cover Daily Shortcut](https://www.icloud.com/shortcuts/3082f51868c54982bddab31254876771)
+- **Master Archive:** The master archive (`data/processed/master_covers_archive.json`) contains all available covers, including 2025 covers with metadata (skater, trick, photographer) extracted from the cover URLs.
+- **4ply Website:** For additional resources and historical data, visit [4ply](https://4plymagazine.com/).
+- **Automation:** Use the master archive JSON for your iOS Shortcut automation. The JSON link is:
+  ```
+  https://raw.githubusercontent.com/kyleplathe/thrasher-covers-archive/main/data/processed/master_covers_archive.json
+  ```
+- **Shortcut Automation Logic:** Screenshots of the shortcut automation logic will be added for better reference.
 
-## Important Note About Automation
+## Project Structure
 
-Due to Apple's security restrictions, shortcuts cannot automatically change your lock screen through the standard automation system. However, there are several ways to use this shortcut:
+```
+thrasher-covers-archive/
+├── src/                    # Source code directory
+│   ├── scrapers/          # Scraping scripts
+│   │   ├── scrape_thrasher_covers.py
+│   │   └── scrape_4ply_metadata.py
+│   ├── processors/        # Image processing scripts
+│   │   ├── resize_cover.py
+│   │   ├── combine_covers_with_metadata.py
+│   │   ├── generate_metadata_overlay.py
+│   │   └── generate_metadata_json.py
+│   └── utils/             # Utility scripts
+│       ├── generate_resized_index.py
+│       └── rename_covers.py
+├── data/                  # Data directory
+│   ├── raw/              # Raw data (JSON, CSV)
+│   └── processed/        # Processed data
+├── images/               # Image directories
+│   ├── original/        # Original cover images
+│   ├── resized/         # Resized cover images
+│   └── overlays/        # Metadata overlays
+├── tests/               # Test files and samples
+└── docs/               # Documentation
+```
 
-1. **Manual Trigger**: Tap the shortcut in the Shortcuts app or add it to your home screen
-2. **Siri Command**: Say "Hey Siri, run Thrasher Cover Daily"
-3. **Custom Automation**: For true automation, you'll need to build the logic directly in the Shortcuts app's Automation tab
+## Setup
 
-## How to Set Up Custom Automation
+1. Create a virtual environment:
+```bash
+python -m venv .venv
+source .venv/bin/activate  # On Windows: .venv\Scripts\activate
+```
 
-To create a custom automation that can change your lock screen:
+2. Install dependencies:
+```bash
+pip install -r requirements.txt
+```
 
-1. Open the Shortcuts app on your iPhone
-2. Tap on the "Automation" tab at the bottom
-3. Tap the "+" button to create a new automation
-4. Choose "Time of Day" as the trigger
-5. Set your preferred time
-6. Add these actions in sequence:
-   - "Get Contents of URL" (use: https://raw.githubusercontent.com/kyleplathe/thrasher-covers-archive/main/resized_covers_index.json)
-   - "Get Dictionary from Input"
-   - "Get Dictionary Value" (key: "covers")
-   - "Get Item from List" (Random Item)
-   - "Get Dictionary Value" (key: "url")
-   - "Get Contents of URL"
-   - "Set Wallpaper"
-7. Toggle "Run Immediately" ON
-8. Toggle "Notify When Run" OFF
-9. Tap "Done" to save the automation
+## Usage
 
-## About
-
-This project automatically scrapes and resizes Thrasher magazine covers to fit iPhone lock screens. The covers are updated daily through automated processes, ensuring you always have access to the latest and classic Thrasher covers.
+1. Clone the repository.
+2. Use the master archive JSON for automation.
+3. Refer to the 4ply website for additional resources.
 
 ## License
 
-This project is licensed under the MIT License. 
+This project is licensed under the MIT License - see the LICENSE file for details. 
