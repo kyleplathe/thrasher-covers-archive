@@ -2,9 +2,7 @@
 
 A project to archive and process Thrasher Magazine cover images.
 
-## Latest Cover Image
-
-![Latest Thrasher Cover](images/resized/resized_covers/lock_screen_011981.jpg)
+![May 2025 Cover - Jamie Foy](https://www.thrashermagazine.com/images/image/Covers_Archive/25_05_Jamie_Foy_Burnett_Frontside_Half_Cab_Nosegrind_CV1TH0525_1080.jpg)
 
 ## Overview
 
