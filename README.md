@@ -23,11 +23,11 @@ Due to Apple's security restrictions, we can't automatically change lock screens
 ⚡️ **CUSTOM AUTOMATION SETUP:**
 1. Open Shortcuts app
 2. Go to Automation tab
-3. Create new automation
+3. Tap the + sign to create a new automation
 4. Choose "Time of Day"
 5. Set your preferred time
 6. Add these actions in order:
-   • Get Contents of URL (use the JSON link)
+   • Get Contents of URL: `https://raw.githubusercontent.com/kyleplathe/thrasher-covers-archive/main/data/processed/master_covers_archive.json`
    • Get Dictionary from Input
    • Get Dictionary Value (key: "covers")
    • Get Random Item from List
